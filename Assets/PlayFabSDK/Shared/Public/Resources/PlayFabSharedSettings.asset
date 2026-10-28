@@ -11,11 +11,11 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 093286084a3d1994a9c28281a1c38b1d, type: 3}
   m_Name: PlayFabSharedSettings
-  m_EditorClassIdentifier: PlayFab::PlayFabSharedSettings
-  TitleId: 19AF7E
-  DeveloperSecretKey: 'RE7UWY3SAAB4CMDQZON71615BQRJDE4GZQK3DKUQKAONO56QZW '
+  m_EditorClassIdentifier: 
+  TitleId: 
+  DeveloperSecretKey: 
   ProductionEnvironmentUrl: 
-  RequestType: 0
+  RequestType: 2
   DisableDeviceInfo: 0
   DisableFocusTimeCollection: 0
   RequestTimeout: 2000
